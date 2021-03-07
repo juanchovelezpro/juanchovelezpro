@@ -1,16 +1,49 @@
-### Hi there 👋
+<!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Juancho</h2> -->
 
-<!--
-**juanchovelezpro/juanchovelezpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ## 👋 &nbsp; Hi I'm Juancho -->
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 &nbsp;I love to learn new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Telematics Engineering at the University Icesi.\
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
+![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=flat&logo=Vagrant&logoColor=1572B6)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=1572B6)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/juanchovelezpro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanchovelezpro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanchovelezpro&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://juanchovelezpro.github.io"><img src="https://img.shields.io/badge/-juanchovelezpro-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/juan-camilo-velez-olaya"><img src="https://img.shields.io/badge/-Juan Camilo Vélez Olaya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:velezolaya2012@hotmail.com"><img src="https://img.shields.io/badge/-velezolaya2012@hotmail.com-187FFF?style=flat&logo=Microsoft-Outlook&logoColor=white"/></a>
+<a href="https://instagram.com/juanchovelezpro"><img src="https://img.shields.io/badge/-@juanchovelezpro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/JuanchoVelezOlaya"><img src="https://img.shields.io/badge/-Juan%20Camilo%20Vélez%20Olaya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
