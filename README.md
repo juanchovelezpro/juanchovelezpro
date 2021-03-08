@@ -10,7 +10,7 @@
 👦 &nbsp;I'm creative, flexible, adaptable and so passionate about technology.\
 👥 &nbsp;I like teamworking to learn from my teammates and share my knowledge with them.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Coding" src="coding.gif" align="right"/>
 
 ### ⚙ &nbsp;Tech Stack
 
