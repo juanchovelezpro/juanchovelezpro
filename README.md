@@ -1,11 +1,11 @@
 <!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Juancho</h2> -->
 
-<!-- ## 👋 &nbsp; Hi I'm Juancho -->
+👋 &nbsp; Hi I'm Juancho
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I love to learn new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Telematics Engineering at the University Icesi.\
+🎓 &nbsp;I'm currently studying 9th Semester of Telematics Engineering at the Icesi University.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -13,8 +13,8 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
 ![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=flat&logo=Vagrant&logoColor=1572B6)&nbsp;
