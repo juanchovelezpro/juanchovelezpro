@@ -10,7 +10,7 @@
 👦 &nbsp;I'm creative, flexible, adaptable and so passionate about technology.\
 👥 &nbsp;I like teamworking to learn from my teammates and share my knowledge with them.
 
-<img alt="Coding" src="coding.gif" align="right"/>
+<img alt="Coding" src="coding.gif" align="center"/>
 
 ### ⚙ &nbsp;Tech Stack
 
@@ -32,6 +32,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
