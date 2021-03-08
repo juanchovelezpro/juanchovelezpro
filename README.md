@@ -6,6 +6,9 @@
 
 💡 &nbsp;I love to learn new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying 9th Semester of Telematics Engineering at the Icesi University.\
+💻 &nbsp;I like mobile development, DevOps and cloud computing.\
+👦 &nbsp;I'm creative, flexible, adaptable and so passionate about technology.\
+👥 &nbsp;I like teamworking to learn from my teammates and share my knowledge with them.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -23,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=FFCA28)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio)&nbsp;
