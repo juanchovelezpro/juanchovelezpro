@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+🎓 &nbsp;I'm a Telematic Engineer.\
+💻 &nbsp;I like DevOps, cloud computing and mobile development,.\
 💡 &nbsp;I love to learn new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying 10th Semester of Telematics Engineering at the Icesi University.\
-💻 &nbsp;I like mobile development, DevOps and cloud computing.\
 👦 &nbsp;I'm creative, flexible, adaptable and so passionate about technology.\
 👥 &nbsp;I like teamworking to learn from my teammates and share my knowledge with them.
 
