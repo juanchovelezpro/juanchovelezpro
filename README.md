@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a Telematic Engineer.\
-💻 &nbsp;I like DevOps, cloud computing and mobile development,.\
+💻 &nbsp;I like DevOps, cloud computing and mobile development.\
 💡 &nbsp;I love to learn new technologies and develop software solutions.\
 👦 &nbsp;I'm creative, flexible, adaptable and so passionate about technology.\
 👥 &nbsp;I like teamworking to learn from my teammates and share my knowledge with them.
@@ -14,6 +14,7 @@
 
 ### ⚙ &nbsp;Tech Stack
 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=0)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
