@@ -21,10 +21,6 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=0095D5)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
-![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=flat&logo=Vagrant&logoColor=1563FF)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=EE0000)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
